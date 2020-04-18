@@ -1,0 +1,16 @@
+C:\Users\777\source\repos\Dz\Dz\bin\Debug\Dz.exe.config
+C:\Users\777\source\repos\Dz\Dz\bin\Debug\Dz.exe
+C:\Users\777\source\repos\Dz\Dz\bin\Debug\Dz.pdb
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.csprojAssemblyReference.cache
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\MainWindow.g.cs
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\App.g.cs
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz_MarkupCompile.cache
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz_MarkupCompile.lref
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\MainWindow.baml
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.g.resources
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.Properties.Resources.resources
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.csproj.GenerateResource.cache
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.exe
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.pdb
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.Form1.resources
+C:\Users\777\source\repos\Dz\Dz\obj\Debug\Dz.Form2.resources
