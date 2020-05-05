@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp2.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="4 Уровень '2 вопроса'" Height="450" Width="800">
+    <Grid>
+        <CheckBox x:Name="var1" Content="Скалиоз" HorizontalAlignment="Left" Margin="179,67,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="var2" Content="Скалероз" HorizontalAlignment="Left" Margin="179,87,0,0" VerticalAlignment="Top" Height="15" Width="83"/>
+        <Label Content="Как называется искревление позвоночника:" HorizontalAlignment="Left" Margin="179,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Выберите язык программирования на котором написанна эта программа." HorizontalAlignment="Left" Margin="179,0,0,0" VerticalAlignment="Center"/>
+        <RadioButton x:Name="nomer1" Content="C#" HorizontalAlignment="Left" Margin="179,235,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="nomer2" Content="C++" HorizontalAlignment="Left" Margin="179,255,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="nomer3" Content="C" HorizontalAlignment="Left" Margin="179,275,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="click" Content="Готово" HorizontalAlignment="Left" Margin="306,370,0,0" VerticalAlignment="Top" Width="90" Height="32" Click="click_Click"/>
+
+    </Grid>
+</Window>

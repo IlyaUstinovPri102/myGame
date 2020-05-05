@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp2.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="5 Уровень 'Выбор ответа'" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="ListBox1" Margin="36,86,25,266" SelectionMode="Multiple">
+            <ListBoxItem Content="Биология — наука о живых существах и их взаимодействии со средой обитания."></ListBoxItem>
+            <ListBoxItem Content="Геология — система научных знаний, изучающая физические особенности Земли и окружающей среды."></ListBoxItem>
+            <ListBoxItem Content="Зоология — наука о представителях царства животных, в том числе человеке."></ListBoxItem>
+        </ListBox>
+        <Label Content="Выберите не парвильное определение" HorizontalAlignment="Left" Margin="36,37,0,0" VerticalAlignment="Top"/>
+        <ListView x:Name="ListView1" Margin="36,250,551,10">
+            <ListViewItem Content="iPhone 5s                18000"></ListViewItem>
+            <ListViewItem Content="iPhone 6s                22000"></ListViewItem>
+            <ListViewItem Content="iPhone 6sе              24000"></ListViewItem>
+            <ListViewItem Content="iPhone 7s                26000"></ListViewItem>
+            <ListViewItem Content="iPhone 8                 30000"></ListViewItem>
+            <ListViewItem Content="iPhone SE               39000"></ListViewItem>
+            <ListViewItem Content="iPhone Xs               49000"></ListViewItem>
+            <ListViewItem Content="iPhone 11               69000"></ListViewItem>
+
+        </ListView>
+        <Label Content="Выберите телефон дороже 39000 но дешевле 69000" HorizontalAlignment="Left" Margin="223,0,0,0" VerticalAlignment="Center"/>
+        <Button x:Name="Click" Content="Готова" HorizontalAlignment="Left" Margin="400,327,0,0" VerticalAlignment="Top" Width="108" Height="46" Click="Click_Click"/>
+
+    </Grid>
+</Window>
