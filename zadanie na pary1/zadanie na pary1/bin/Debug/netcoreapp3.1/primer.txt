@@ -1,0 +1,2 @@
+var a; mov a, 5; add a, 10; sub a, 5; div 5; mul 3; div 2, add a, 2; var chislo; mov chislo, 5; mul 5; add chislo, 5; div 6;
+
